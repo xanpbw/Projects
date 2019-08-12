@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="io.realm.Realm.init(context)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
